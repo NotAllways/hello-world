@@ -1,2 +1,3 @@
 # hello-world
-Just another repoistory
+Just another repoistory about my path in learning how to use these files.
+
